@@ -1,0 +1,28 @@
+h1 {
+    color: brown;
+}
+
+* {
+    
+}
+
+
+.console {
+    background-color:darksalmon;
+
+    display : flex ; 
+    justify-content : space-between
+}
+
+.cheese {
+    display :flex;
+    justify-content : flex-end
+
+}
+
+.axe {
+    display :flex;
+    flex-wrap :wrap;
+    justify-content : space-between
+    
+}
